@@ -1,0 +1,5 @@
+[
+    {"Order ID": 104, "Product": "Chair", "Category": "Furniture", "Quantity": 4, "Price": 5000},
+    {"Order ID": 105, "Product": "Headphones", "Category": "Electronics", "Quantity": 5, "Price": 2000},
+    {"Order ID": 118, "Product": "Keyboard", "Category": "Electronics", "Quantity": 1, "Price": 9000}
+  ]
